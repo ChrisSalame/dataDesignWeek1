@@ -12,5 +12,7 @@ public class InventoryItem : ScriptableObject
 
     public Rarity rarity;
 
+    public string itemType;
+
     public int cost;
 }
